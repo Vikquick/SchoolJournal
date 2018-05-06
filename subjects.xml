@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<instanceImpl>
+    <Subjects>
+        <Subject subjectName="Биология">
+            <Journals>
+                <Journal classNumber="11" classLiter="А">
+                    <Entities>
+                        <Entity fio="Самсонов Александр Алексеевич">
+                            <Assesments>
+<Assesment>
+    <Assesment>FOUR</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FOUR</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                        <Entity fio="Озерной Дмитрия Вячеславович">
+                            <Assesments>
+<Assesment>
+    <Assesment>FOUR</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                    </Entities>
+                </Journal>
+                <Journal classNumber="11" classLiter="Б">
+                    <Entities>
+                        <Entity fio="Горшков Виктор Владимирович">
+                            <Assesments>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                        <Entity fio="Бормотов Владислав Андреевич">
+                            <Assesments>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                    </Entities>
+                </Journal>
+            </Journals>
+        </Subject>
+        <Subject subjectName="Физика">
+            <Journals>
+                <Journal classNumber="11" classLiter="А">
+                    <Entities>
+                        <Entity fio="Самсонов Александр Алексеевич">
+                            <Assesments>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                        <Entity fio="Озерной Дмитрия Вячеславович">
+                            <Assesments>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                    </Entities>
+                </Journal>
+                <Journal classNumber="11" classLiter="Б">
+                    <Entities>
+                        <Entity fio="Горшков Виктор Владимирович">
+                            <Assesments>
+<Assesment>
+    <Assesment>FOUR</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                        <Entity fio="Бормотов Владислав Андреевич">
+                            <Assesments>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                    </Entities>
+                </Journal>
+            </Journals>
+        </Subject>
+        <Subject subjectName="Математика">
+            <Journals>
+                <Journal classNumber="11" classLiter="А">
+                    <Entities>
+                        <Entity fio="Самсонов Александр Алексеевич">
+                            <Assesments>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                        <Entity fio="Озерной Дмитрия Вячеславович">
+                            <Assesments>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                    </Entities>
+                </Journal>
+                <Journal classNumber="11" classLiter="Б">
+                    <Entities>
+                        <Entity fio="Горшков Виктор Владимирович">
+                            <Assesments>
+<Assesment>
+    <Assesment>THREE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FIVE</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                        <Entity fio="Бормотов Владислав Андреевич">
+                            <Assesments>
+<Assesment>
+    <Assesment>FOUR</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+<Assesment>
+    <Assesment>FOUR</Assesment>
+    <Date>2018-05-06</Date>
+</Assesment>
+                            </Assesments>
+                        </Entity>
+                    </Entities>
+                </Journal>
+            </Journals>
+        </Subject>
+    </Subjects>
+</instanceImpl>

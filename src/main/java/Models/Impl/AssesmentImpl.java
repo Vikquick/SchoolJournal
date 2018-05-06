@@ -45,8 +45,8 @@ public class AssesmentImpl implements Assesment {
         this.assesment = assesment;
     }
 
-@Override
-    public String toString(){
+    @Override
+    public String toString() {
         return "{\"" + getAssesment().toString() + "\" - " + dateFormat.format(getDate()) + "}";
-}
+    }
 }

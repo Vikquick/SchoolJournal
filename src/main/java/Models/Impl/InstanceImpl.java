@@ -3,8 +3,8 @@ package Models.Impl;
 import Models.Intf.Instance;
 import Models.Intf.Subject;
 import Services.Parser.Impl.JAXBParser;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlElementWrapper;
@@ -18,7 +18,7 @@ import java.util.List;
 public class InstanceImpl implements Instance {
 
     private static final Logger logger = LogManager.getLogger(Journalmpl.class);
-    private static String filepath = "D:/subjects.xml";
+    private static String filepath = "C:/Projects/subjects.xml";
 
     private List<SubjectImpl> subjects = new ArrayList<>();
     private static JAXBParser parser = new JAXBParser();
@@ -97,7 +97,6 @@ public class InstanceImpl implements Instance {
             }
         }
     }
-
 
 
 }

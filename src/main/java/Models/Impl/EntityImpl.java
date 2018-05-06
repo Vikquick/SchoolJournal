@@ -3,8 +3,8 @@ package Models.Impl;
 
 import Models.ENUM.AssesmentEn;
 import Models.Intf.Entity;
-import org.apache.log4j.LogManager;
-import org.apache.log4j.Logger;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
@@ -61,12 +61,12 @@ public class EntityImpl implements Entity {
 
     @Override
     public void deleteAssesment(int count) {
-        getAssesments().remove(count-1);
+        getAssesments().remove(count - 1);
         logger.info("Удалена оценка под номером: " + count);
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return getFIO();
     }
 }

@@ -2,7 +2,6 @@ package Models.Intf;
 
 import Models.Impl.AssesmentImpl;
 import Models.Impl.EntityImpl;
-import Models.Impl.Journalmpl;
 
 import java.util.List;
 
